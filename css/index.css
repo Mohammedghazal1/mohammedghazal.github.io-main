@@ -1,18 +1,17 @@
-h1{
+center{
   font-size:40px;
   text-align:center;
-  color:AA336A;
+  color:#AA336A;
   font-family: cursive;
+  margin-top:35px;
   }
   img{
     width:200px;
     border-radius: 100px;
     float:left;
     margin-right: 30px;
+    margin-top:45px;
   }
-
-
-
 ol{
   font-size:30px;
   font-family:arial;
@@ -21,4 +20,11 @@ p{
   font-size:20px;
   font-family:cursive;
   color: #800000;
+}
+a:hover{
+  background:#AA336A;
+}
+a{
+  color:black;
+  padding:16px;
 }
