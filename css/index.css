@@ -10,7 +10,6 @@ center{
     border-radius: 100px;
     float:left;
     margin-right: 30px;
-    margin-top:45px;
   }
 ol{
   font-size:30px;
@@ -18,7 +17,7 @@ ol{
 }
 p{
   font-size:20px;
-  font-family:cursive;
+font-family:"copperplate",fantasy;
   color: #800000;
 }
 a:hover{
@@ -27,4 +26,7 @@ a:hover{
 a{
   color:black;
   padding:16px;
+}
+em{
+  color:black
 }
